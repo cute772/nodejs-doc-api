@@ -2,7 +2,7 @@
 
 node doc api for me
 
-## file System
+## File System
 
 ### fs.open(file, flags[, mode], callback)
 
