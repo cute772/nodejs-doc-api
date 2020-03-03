@@ -3,8 +3,12 @@
 + https://nodejs.org/ko/docs/
 + http://nodejs.sideeffect.kr/docs/  한글버전(10.x 이전꺼부터 있음)
 
+## Buffer
++ https://namik.tistory.com/115
 
 ## File System
++ https://kamsi76.tistory.com/entry/NodeJS-File-System
++ https://code-daniel.tistory.com/6
 
 ### fs.open(file, flags[, mode], callback)
 
